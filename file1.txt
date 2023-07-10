@@ -7,3 +7,4 @@ fghj
 fghj
 tdyfgh
 hgjhk
+Testing git pull command which is a combination of fetch + merge
